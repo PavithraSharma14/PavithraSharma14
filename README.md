@@ -1,107 +1,82 @@
-<div align="center">
-  <h1>Hi, I’m Pavithra Sharma 👋</h1>
-  <p>
-    MERN Stack Developer | Java & DSA | Final-Year CSE (AI)
-  </p>
-  <p>
-    I build full-stack web applications and strengthen my problem-solving skills
-    with a strong focus on clean code, fundamentals, and real-world usability.
-  </p>
-</div>
+# Pavithra Sharma 
+
+## Full-Stack MERN Developer | Java & DSA | Clean Code Enthusiast
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/PavithraSharma14?style=social)
 
 ---
 
-## 👩‍💻 Professional Summary
+## 🚀 About Me
 
-Final-year Computer Science (AI) student with hands-on experience in **MERN stack development** and a solid foundation in **Java and Data Structures & Algorithms**.  
-I focus on building **end-to-end applications**, writing **maintainable code**, and continuously improving my problem-solving ability.
+I build **real-world full-stack systems** using MERN and strengthen my core foundations through **Java & Data Structures**.
 
----
-
-## 🛠 Technical Skills
-
-**Programming Languages**  
-- JavaScript (ES6+)  
-- Java  
-
-**Frontend Development**  
-- React  
-- HTML5, CSS3  
-- Tailwind CSS  
-
-**Backend Development**  
-- Node.js  
-- Express.js  
-
-**Databases**  
-- MongoDB  
-
-**Tools & Platforms**  
-- Git & GitHub  
-- Postman  
-- VS Code  
-
-**Core Concepts**  
-- RESTful APIs  
-- Authentication & Authorization  
-- MVC Architecture  
-- Data Structures & Algorithms  
+I focus on:
+- Writing clean, maintainable code
+- Building production-style architecture
+- Understanding time & space complexity
+- Improving backend performance and API structure
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
 
-### 🏕️ Wanderlust — Full-Stack Travel Listing Application
-**Tech Stack:** MongoDB | Express.js | Node.js | EJS | Cloudinary  
-- Developed an Airbnb-style platform for listing and reviewing travel destinations  
-- Implemented user authentication, authorization, and secure CRUD operations  
-- Integrated image uploads and cloud storage  
-- Deployed and accessible as a production-ready application  
-
----
-
-### 🌦️ Climenova — React Weather Application
-**Tech Stack:** React | JavaScript | External APIs  
-- Built a responsive weather application using real-time API data  
-- Implemented dynamic UI updates and clean component structure  
-- Focused on React fundamentals and API integration  
+**Languages:** Java, JavaScript (ES6+)  
+**Frontend:** React.js, HTML5, CSS3  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code  
 
 ---
 
-### ☕ Java Core to Advanced + DSA
-**Tech Stack:** Java  
-- Structured repository covering Java fundamentals, OOP concepts, and DSA  
-- Implemented sorting algorithms and array-based problems  
-- Focus on clarity, correctness, and time-complexity awareness  
-- Actively maintained and expanded  
+## 📌 Featured Projects
+
+### 🌍 Wanderlust — Full-Stack MERN Application
+- Authentication & Authorization
+- MVC architecture
+- Cloudinary integration
+- RESTful API design
+- Responsive UI
+- Secure session handling
+
+🔗 Live: https://wanderlust-mern-fullstack.onrender.com
 
 ---
 
-## 📊 GitHub Activity
+### 🌦 Climenova — React Weather Application
+- Real-time API integration
+- Modular component structure
+- Efficient state management
 
-<picture>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PavithraSharma14&show_icons=true&theme=github_dark" />
-</picture>
-
----
-
-## 📫 Contact & Links
-
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/pavithrasharma14  
-- 📧 **Email:** pavithrasharma456@gmail.com
+🔗 Live: https://climenova-weather-app.vercel.app
 
 ---
 
-## 🎯 Career Focus
-
-- Full-Stack Web Development (MERN)  
-- Strong fundamentals in Java & DSA  
-- Writing clean, scalable, and maintainable code  
-- Continuous learning through real projects  
+### ☕ Java Core to Advanced
+- Structured learning repository
+- Clean DSA implementations
+- Focus on approach & complexity analysis
 
 ---
 
-*Thank you for visiting my GitHub profile.*
+## 📈 Currently Improving
+
+- Advanced DSA patterns in Java
+- Backend performance optimization
+- System design fundamentals
+
+---
+
+## 🤝 Connect
+
+LinkedIn: https://www.linkedin.com/in/pavithrasharma  
+Email: pavithrasharma456@gmail.com
+
 
 
 
