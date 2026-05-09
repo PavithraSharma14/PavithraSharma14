@@ -72,6 +72,17 @@ I focus on:
 
 ---
 
+## 💼 Open to Freelance Work
+
+I'm available for freelance MERN stack projects — REST APIs, 
+full-stack apps, React UIs, and GitHub repo reviews.
+
+- 📧 Email: pavithrasharma456@gmail.com
+- 🔗 Fiverr: https://www.fiverr.com/pavithra_dev
+- 💬 Response time: within 24 hours
+
+---
+
 ## 🤝 Connect
 
 LinkedIn: https://www.linkedin.com/in/pavithrasharma  
