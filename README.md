@@ -79,6 +79,7 @@ full-stack apps, React UIs, and GitHub repo reviews.
 
 - 📧 Email: pavithrasharma456@gmail.com
 - 🔗 Fiverr: https://www.fiverr.com/pavithra_dev
+- 🌐 Portfolio: https://pavithra-portfolio-tau.vercel.app
 - 💬 Response time: within 24 hours
 
 ---
