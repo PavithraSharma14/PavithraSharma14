@@ -1,93 +1,236 @@
-# Pavithra Sharma 
+# 👋 Hi, I'm Pavithra Sharma
 
-## Full-Stack MERN Developer | Java & DSA | Clean Code Enthusiast
+### 💻 Full Stack Developer | React.js | Node.js | TypeScript | JavaScript | SQL | Java
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/PavithraSharma14?style=social)
+I’m a **2026 Computer Science Engineering graduate** who enjoys turning ideas into working software and understanding what happens beyond the happy path.
+
+I build full-stack applications across the frontend and backend, work with APIs and databases, and continuously strengthen my foundations in **software engineering, problem solving, DSA, and system design fundamentals**.
+
+> **I don't just ask, “Does it work?” — I’m learning to ask, “Does it work reliably, and how can I make it better?”**
 
 ---
 
 ## 🚀 About Me
 
-I build **real-world full-stack systems** using MERN and strengthen my core foundations through **Java & Data Structures**.
-
-I focus on:
-- Writing clean, maintainable code
-- Building production-style architecture
-- Understanding time & space complexity
-- Improving backend performance and API structure
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Java, JavaScript (ES6+)  
-**Frontend:** React.js, HTML5, CSS3  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, Postman, VS Code  
+* 🎓 B.Tech in **Computer Science Engineering (AI)** — 2026 Graduate
+* 💻 Interested in **Full Stack Development & Software Engineering**
+* ⚛️ Building applications with **React.js, Node.js, Express.js & TypeScript**
+* 🗄️ Working with **MySQL, MongoDB & REST APIs**
+* ☕ Strengthening **Java, DSA & problem-solving**
+* 🐍 Comfortable with **Python & SQL**
+* 🌱 Currently improving **backend development, system design fundamentals & scalable application thinking**
+* 🔍 Interested in **clean code, debugging, performance and reliable systems**
+* 📍 Bengaluru, Karnataka, India
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🌍 Wanderlust — Full-Stack MERN Application
-- Authentication & Authorization
-- MVC architecture
-- Cloudinary integration
-- RESTful API design
-- Responsive UI
-- Secure session handling
+### Languages
 
-🔗 Live: https://wanderlust-mern-fullstack.onrender.com
+`Java` `JavaScript` `TypeScript` `Python` `SQL`
+
+### Frontend
+
+`React.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `Material UI`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs` `MVC`
+
+### Databases
+
+`MySQL` `MongoDB` `MongoDB Atlas` `Mongoose`
+
+### Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `Cloudinary`
+
+### Core Concepts
+
+`OOP` `DSA` `Authentication` `Authorization` `Sessions` `API Design` `Problem Solving` `Time & Space Complexity`
 
 ---
 
-### 🌦 Climenova — React Weather Application
-- Real-time API integration
-- Modular component structure
-- Efficient state management
+## 🌟 Featured Projects
 
-🔗 Live: https://climenova-weather-app.vercel.app
+### 🌍 Wanderlust — Full-Stack Web Application
+
+A full-stack Airbnb-inspired web application focused on real-world backend and frontend development.
+
+**Key Features**
+
+* 🔐 Authentication and authorization
+* 🏗️ MVC-based application structure
+* 📝 Listing and review CRUD operations
+* ☁️ Cloudinary integration for image management
+* 🗺️ Mapbox integration for location-based features
+* 🔑 Session-based authentication
+* 🔗 RESTful API architecture
+* 📱 Responsive user interface
+
+**Built With:**
+`Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Bootstrap` `Cloudinary` `Mapbox`
+
+🔗 **Live:** https://wanderlust-mern-fullstack.onrender.com
+🔗 **Source:** https://github.com/PavithraSharma14/wanderlust-mern-fullstack
+
+---
+
+### 🌦️ Climenova — React Weather Application
+
+A responsive weather application built with React and a weather API, focused on component-based UI development and API integration.
+
+**Key Features**
+
+* 🌤️ Real-time weather data
+* 🔗 API integration
+* ⚛️ React component-based architecture
+* 🎨 Material UI interface
+* 📍 City-based weather search
+* 📱 Responsive design
+
+**Built With:**
+`React.js` `JavaScript` `Material UI` `OpenWeatherMap API`
+
+🔗 **Live:** https://climenova-weather-app.vercel.app
 
 ---
 
 ### ☕ Java Core to Advanced
-- Structured learning repository
-- Clean DSA implementations
-- Focus on approach & complexity analysis
+
+A structured Java learning and problem-solving repository documenting my journey from Java fundamentals toward advanced concepts and DSA.
+
+**Includes**
+
+* ☕ Java fundamentals
+* 🧱 Object-Oriented Programming
+* 🔢 Arrays & Strings
+* 🔍 Searching & Sorting
+* 🧮 Bit Manipulation
+* 🔁 Recursion
+* ⚡ Divide & Conquer
+* 📊 Time & Space Complexity
+* 🧩 Problem-solving approaches
+
+The goal is not just to collect solutions, but to understand the **approach, complexity and reasoning behind each solution**.
+
+🔗 **Repository:** https://github.com/PavithraSharma14/java-core-to-advanced
 
 ---
 
-## 📈 Currently Improving
+### 🧩 LeetCode — Java & SQL
 
-- Advanced DSA patterns in Java
-- Backend performance optimization
-- System design fundamentals
+A dedicated repository where I document my LeetCode problem-solving journey using **Java and SQL**.
+
+**Focus Areas**
+
+* Arrays
+* Strings
+* Hashing
+* Searching & Sorting
+* SQL Queries
+* Joins
+* Aggregations
+* Subqueries
+* Window Functions
+* Problem-solving patterns
+
+🔗 **Repository:** https://github.com/PavithraSharma14/leetcode-java-sql
+🔗 **LeetCode:** https://leetcode.com/u/Pavithra_Sharma/
 
 ---
 
-## 💼 Open to Freelance Work
+## 🧠 How I Approach Development
 
-I'm available for freelance MERN stack projects — REST APIs, 
-full-stack apps, React UIs, and GitHub repo reviews.
+I’m increasingly trying to think beyond the happy path.
 
-- 📧 Email: pavithrasharma456@gmail.com
-- 🔗 Fiverr: https://www.fiverr.com/pavithra_dev
-- 🌐 Portfolio: https://pavithra-portfolio-tau.vercel.app
-- 💬 Response time: within 24 hours
+When building a feature, I ask:
+
+```text
+Does it work?
+      ↓
+What happens when it fails?
+      ↓
+What happens when the server restarts?
+      ↓
+Can the same operation happen twice?
+      ↓
+Is the data persisted safely?
+      ↓
+What happens as usage grows?
+      ↓
+How can I improve it?
+```
+
+This mindset is helping me understand that good software is not only about writing working code.
+
+It is also about thinking about:
+
+**Reliability → Data Consistency → Performance → Scalability → Maintainability**
 
 ---
 
-## 🤝 Connect
+## 📚 Currently Improving
 
-LinkedIn: https://www.linkedin.com/in/pavithrasharma  
-Email: pavithrasharma456@gmail.com
+* 🔹 Advanced Java & DSA
+* 🔹 SQL and database concepts
+* 🔹 Backend development with Node.js
+* 🔹 REST API design
+* 🔹 TypeScript
+* 🔹 System design fundamentals
+* 🔹 Backend performance and scalability
+* 🔹 Clean and maintainable code
+* 🔹 Debugging and problem solving
+
+---
+
+## 🎯 What I'm Looking For
+
+I’m looking for an opportunity where I can:
+
+* 🚀 Build meaningful software products
+* 🧠 Solve real engineering problems
+* 🤝 Learn from experienced developers
+* 💻 Contribute across the full stack
+* 🔍 Take ownership of assigned work
+* 📈 Improve through feedback and continuous learning
+
+I’m especially interested in environments where **curiosity, ownership, learning and problem solving** are valued.
+
+---
+
+## 📊 My Development Philosophy
+
+> **Build → Break → Understand → Improve**
+
+I believe every project is an opportunity to understand something deeper.
+
+The goal isn't to know every technology.
+
+The goal is to become better at **learning, building, debugging and solving problems.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, engineers, recruiters and people who enjoy building technology.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pavithrasharma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Pavithra_Sharma/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+### 💜 Still learning. Still building. Still asking better questions.
+
+**— Pavithra Sharma 💻**
+
 
 
 
