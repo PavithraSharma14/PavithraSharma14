@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavithra Sharma
 
-### 💻 Full Stack Developer | React.js | Node.js | TypeScript | JavaScript | SQL | Java
+### 💻 Full Stack Developer | React.js | Node.js | JavaScript | SQL | Java
 
 I’m a **2026 Computer Science Engineering graduate** who enjoys turning ideas into working software and understanding what happens beyond the happy path.
 
@@ -14,7 +14,7 @@ I build full-stack applications across the frontend and backend, work with APIs 
 
 * 🎓 B.Tech in **Computer Science Engineering (AI)** — 2026 Graduate
 * 💻 Interested in **Full Stack Development & Software Engineering**
-* ⚛️ Building applications with **React.js, Node.js, Express.js & TypeScript**
+* ⚛️ Building applications with **React.js, Node.js, Express.js**
 * 🗄️ Working with **MySQL, MongoDB & REST APIs**
 * ☕ Strengthening **Java, DSA & problem-solving**
 * 🐍 Comfortable with **Python & SQL**
@@ -28,7 +28,7 @@ I build full-stack applications across the frontend and backend, work with APIs 
 
 ### Languages
 
-`Java` `JavaScript` `TypeScript` `Python` `SQL`
+`Java` `JavaScript``Python` `SQL`
 
 ### Frontend
 
